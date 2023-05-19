@@ -1,0 +1,568 @@
+For today
+
+will be that I will give a a couple of minutes spill just about my my feelings around the role of these sort of generative language models in higher education, and I suppose, looking forward to how a I is going to evolve and change the sector, and then we'll have 5 min each
+
+from each of the panelists, who will introduce themselves and give a little bit about their perspectives. On, on.
+
+particularly on Chat Gbt and assessment. I think those are the big hot topics at the moment. And then after that, I've got a number of questions for the panel. But really it's a very designed to be a very fluid session. So if there's a question that you particularly want to ask, please do post it in the chat, and we will use that to sort of shape
+
+shape the following discussion so hopefully, that's all works for everybody.
+
+So, just to introduce myself, start off with my name's Kay Hack. I'm. Lead consultant for education with advanced H. E. For my sins. I once taught by mathematics and some a natural language, processing tools and things like that many, many years ago. So it's it's a bit back in my academic part, so say, but it's all. It's always there somewhere, and I always had that interest.
+
+but my interest in this was sparked
+
+really powerfully, I suppose, over the Christmas holiday so literally within a month of
+
+Chat Gbt 3 being launched. My kids and their cousins all are different universities all around the Uk. We're all talking about this at at at a Christmas party
+
+and thinking about. You know what it could do, the power of it and all the rest of it. And then very quickly, if you have my brother in laws joined in and thinking, right? Okay, I need to use this in my work. This sounds like an incredible tool, and you know, just it just really sparked that imagination of the power of this tool. And I suppose that just made me reflect, then, that
+
+you know not only a students picking up this tool really quickly, I think, down to the the very accessible interface it had.
+
+They were seeing its uses. They're being really creative about its uses. But we're also seeing it. You know very quickly recognizing what role it would have in the workplace. And I think that really kind of highlighted to me that
+
+this is not a tool that we can just ban, you know, and can't say. Oh, you can't use that because students jobs their employer, future employability is going to be dependent on them being able to use tools like Chat Gbt, and all of the new
+
+evolutions of that that will occur before they even graduate. Then we expected to use that in the workplace. They need to be able to use it critically and ethically, and therefore we kind of need to be thinking about how we can embed that into our teaching and learning in order to to give them those skills to be successful.
+
+So that was kind of my kind of 2 min worth of my current thinking. I'm really pleased to have such a interesting panel joining us today. I am going to start off by inviting Michael
+
+to to lead and give us 5 min on
+
+who he is, where he's come from, you know. I'm not going to say blind day, because that will better date me as well, and and give us a summary of what he thinks of the most.
+
+Or you know the current issues, and that'll be followed by Linda. And then, Joel. Okay, so. And unfortunately out we had her to. Student would be able to join us today, but unfortunately they weren't available. So we we we'll have to just go with that with our view. So over to you, Michael. Thank you.
+
+Mary. Thanks, Kay, and good to see so many people here like K's, been a bit of a journey for me, and I think institutionally where we're at. We starting to look very seriously at the academic integrity Institutionally, with the advent of the
+
+we've got phone for current work groups ongoing with our institution around regulations and policies around students Cpd upskilling around staff, Cpd. And processes and Procedures, and I'm. Pleased. I think so. I'm given this also on this call
+
+is one of my to chairs involved in that sort of cross institutional workstream, involving both students and staff at the moment.
+
+maybe Chat, Gpt
+
+and I remember using it back in the University of of Erasmus in relation to presentation, I'm. Giving out that you on behalf of the Council of Europe. And then I was basically talking about a horizon coming in relation to our special intelligence. I'm. I'm. A lawyer by background. I I said, on the more Science education train committing.
+
+and we'd have the right and sculpting report around intelligence is used in basically the practice of law, and I was using it in that sort of context.
+
+I've also noticed, of course, since then one of the major more phones in the world. Globally, I will move with adopted chat. Gbt. As a result, Say, call me Harvey and basically use it interface in relation to to to clients, and also in relation to.
+
+There's stuff around that. So the employability is like you said how you you can see how we train up skills. Students in relation to the benefits as well as the challenges, I think, is is going to be key going forward
+
+in relation to institutional practice. I was running over today, whether or not that down the line there'll be an open. Our university coming downstream as a as a loving instructor in relation to institutional practice
+
+touches the I think, the the transformative experience.
+
+I'll i'll chat to Gpt and AI tools generally acknowledging course that so we know. The chat, you can see is intelligence. It's done. It's a large language model. So you need to to make that distinction
+
+so employed. But this is the key thing. I I I think a lot of. Of course you've got to say a assessment and integrity where we go from with the assessment. Now, you don't necessarily want to wholesale a whole scale, to turn back to you in personally visiting examinations for all reasons that pedagogically, we
+
+discuss the in the past. But where does that leave your assessment now? You've got to
+
+to to to do the work for you all the paid you. Now get your own tool in your own personal essay for you.
+
+I think it's important to note there are serious limitations around Chat Gpt. Not least, of course, open AI itself. The mission is a a chat. Gbt. But you said, going for educators, which is published about a a month ago. Now, which
+
+points out the limitations of the tendency sometimes to fabricate, make things up, I dare say live, but lies a human being.
+
+But it we. We have to manage to use a chat to up, and we have to educate students. That's just challenges. It's limitations, but also it's beneficial to assessment
+
+So significant work to be done. I think everyone is looking at their policies and their regulations at the moment. As to how we
+
+characterized, Used to chat, to youpt, Say, for example, is it commissioning without authorized or declared. Use this unauthorized, undeclared uses. I think a catchphrase to to catch up to you in relation to those policies.
+
+So yeah, I can see chat you 54. Yes, it's been released this week, and I think John will. Linda may be talking about that. So I think I've I've set the scene a bit for for everybody, I hope, and I hope one of my team presenters will take that in over. Thank you very much for listening.
+
+That's that's a great start, Michael. Thank you very much. If we can hand over to to Linda, please.
+
+Hi! Thank you very much for those of you who don't know. My name is Linda Maron. I'm. A senior lecturing Lin, and in teaching development with the chill University, and I work within the central linen and and teaching. So my role is largely stuff developments based.
+
+But we also impact policies when they're being driven by change for revisions and things like that. So obviously the current scenario with chat. You, Pt. Means that we're very busy in our center looking at how to address it. So I do have sort of 2 views on it. My first interest is driven by my own past. I believe
+
+in that chaty Pt. Well, I think it's amazing. I think it's innovative. I also think it's here to stay, and I think we should embrace it. So this is my personal sort of value
+
+in terms of assessment. It has at least for me, got numerous benefits when we're looking at the development of students assessment that you see, and their knowledge of how assessments work. And I do think it has some great implications for things like accessibility and inclusivity as well.
+
+Now the second driver for me, interest in AI, as I say, is more of a professional aspect, and it's one of ethics. So i'm pretty much echo. And what my 2 previous colleagues have already said, Really, like most, I do see the potential from issues. But I'm. Also concerned about the different ways in which universities might be deciding to handle this
+
+now. So if we got different university. It's the take on different perspectives. With regards to the exceptional ban on the use of AI, we may find that it negatively impacts different institutions, reputations.
+
+So, for example, a complete ban might indicate an institution has a strong commitment to academic integrity on the one hand, or it might be perceived by employers and future potential students as a regress of university. Another way it's a you know one that doesn't move at the time
+
+contrastingly. A university that's full of acceptance may well be perceived as playing fast and loose with academic integrity; or, it may be perceived as a progressive university.
+
+Now the different viewpoints, many universities as my coast, you said, or currently adapt to. No revised or, you know, produce a new policies to take. Take this into account, and they're looking at different types of academic misconduct.
+
+So my concern is that if higher higher institutions adopt a different stance each, it's going to lead to an inconsistency across the higher education. Environment. So i'm quite keen to see
+
+a sort of comment together, a sort of sector-wide policy being developed and that different institutions can then use that as a baseline to then draw down from. But either way students are already using various forms of AI. It's embedded in higher education. It's embedded within their everyday lives, so we can't ignore that, as my previous colleagues have just been saying as well, and I do also think that it's so. Not they will use within future employments.
+
+So I do think that we definitely should accept it. You know we need to acknowledge that it's there. I do think we need to raise awareness of it with students, and I think we need to look at the ways in which it can have advantages for both staff and students.
+
+So where I've tried a few things which are Gpt: I've done things like plan a lesson. I've got it to suggest ideas, bring class forward to, and so much of assessments, things like outline of a presentation. A students can use it for these kind of things as well.
+
+I've got it to create a story board. As there was a media students, so one of the colleagues that works with me here is Media, and I asked here about a couple of things, and I've dropped that in there. I have used it to compare text to get comparisons. I've also used it to gain tips for experimental design for research.
+
+I've used it to summarize an abstract for research paper. and I've found that the outputs for for chat chi pt is as good as the in.
+
+Lizzie Whitcher: So if you import in a different way, like students might think of some institutions being.
+
+Lizzie Whitcher: you know, regresses, or
+
+that's
+
+Lizzie Whitcher: Yeah, is it?
+
+Hello!
+
+Sorry I carry on, Linda. I don't know what happened.
+
+Just Just just put your comments in in the text, please, and i'll invite people to to join that point. So I, Linda may maybe. Should we want to jail then? Yes, okay, thanks very much. And that was that was great. And and really giving us a flavor of what it can do.
+
+Joel, over to you.
+
+My background stems from a quite different perspective, initially, from one of my first degree, which was in graphic design.
+
+and the issues around copyright which have always been prevalent in that sector and always fascinated me. So the legal aspect of design is has been very important to me.
+
+and the first AI generates I ever came across were Dali and and other such image AI generation tools which prompted a lot of discussion at the time about copyright ownership.
+
+originality, and modification of the original pieces of artwork, producing then obviously new pieces of artwork which would, which are AI entirely AI generated.
+
+So my introduction. This came several months before I even was aware of Chat Gpt.
+
+And then, like most people before Christmas, round about November time and November I became aware of the the generative AI text tools.
+
+So I started exploring this and and talking to people about it. Colleagues and and friends about this and and
+
+the the interesting thing for me around Generative AI
+
+is particularly around the limitations and boundaries of the tools, both in terms of generation, and detecting
+
+on both sides of the argument.
+
+but particularly around prompt engineering, the concept of prompt engineering being how well we actually instruct the AI to do what we want it to do, and how we can then go on modifying that prompt and refining, that prompt to generate different iterative pieces of work based on the original assumption.
+
+So, for example, we we get a lot of great results out of Chat Gbt through quite deep probing and through structure questioning.
+
+but I was interested in the different approaches, for example, with being AI and the Bing Chat service, which is also a a generative, AI tool. And again. We'll talk a little bit more in detail later about these particular different models and the the limitations of both. And as
+
+as my colleagues have mentioned, so far about Gpt. 4, which is just coming out, which will actually be able to incorporate audio and visual processing into the algorithm as well. So feeding in audio prompts and visual prompts, and then getting audio and visual prompts out.
+
+We already have certain tools which can do this tone. AI, for example, produces Powerpoint presentations entirely based on
+
+input from text, and it will generate images and content for you for a Powerpoint, so that these tools are around have been around to various different forms, and are now growing more and more rapidly. So this area is is exploding literally around us. So my interest is what we do with it, how we can use it, how we can create learning outcomes, how we can scaffold lessons and lecture plans, how we can use it to build and generate ideas and concepts.
+
+But again, with the kind of caveat there we have to be mindful about. At what point do we stop calling it our own. Well stop calling it the the AI work and start calling it our own work, and that's the the tipping point for me, which is that originality points coming that full circle.
+
+And finally, a question before for for people is some around assessment and design. If assessment is a process, we can design assessment based on frameworks, rubric, and constructive alignment. Then AI should be able to provide meaningful feedback, because effectively we're just answering our own questions with the tools that we provide for it.
+
+So why Shouldn't? We would be the question.
+
+Okay, that's me. Thank you.
+
+And thanks very much, Colleagues, I think, before we just move on to to the formal questions. There's been quite a lot of discussion in the chat about. Can you detect AI generated content?
+
+I don't want to have a great big debate about this at this stage, but if so, anybody just wants to give a brief
+
+response to that about a AI detection tools.
+
+Well.
+
+if I can start. I I did a test literally a week ago, because that's how quickly we are working in this field. I put. I engineered a prompt to give me a short essay on the Moon Landings around the subject for the Moon Landings, with 2 Harvard references, and
+
+I got chat to you pt to write the answer. It provided me with an answer with false references, of course, but it provided me with an answer, and then put exactly the same prompt into Bing AI, and got the results out with 2 valid
+
+references in it.
+
+and then to each of those results and put them through chat, dpt, 0
+
+and Chat Tpt 0 detected a 100% or 95% match with the chat Gpt, it reversed, engineered itself and detected AI,
+
+and when I put the ping result in it, said, this is 99% written by a human.
+
+So 99% certain it was that it was written by a human. But being AI had written up entire essay.
+
+Yeah. where does that leave us? And I I think that that's a that's a great a summation, for example, and and the challenge is the the the in my view is that the technology is is moving so fast
+
+that it's just an odds, right? So we're always going to be a step behind. Hey? Can I just add to that as well? I think we we got to be careful as well when we use these a detection tools as to what your regulations and policies allow you to use in relation to the work which, when generations
+
+you put it through an unregulated tool, that it affects you all interfering with you privacy. And if they use confidential information that, for example, then that's going straight into the database. So
+
+what you'd have to do is, we have a very clear conversation about what you may may not do with a a generating assessment as to where that might actually end up. I mean, at the moment i'll check with this, is it's it's basically you use. Turn it in. But that's it. That's what's authorized.
+
+Yeah, I I think that's a really good point, important point, Michael. We we we don't allow to to just share their data, their information with any with any tool we like. And then the other thing that will always emerge from this
+
+is that it'll only ever be a probability. I don't know what what probability are you comfortable with accusing students of cheating something that's gonna up, you know, disrupt their whole academic career, you know, if you, if it's 90% sure, 95% sure that still 5 students in a 100 are going to be falsely accused
+
+of of using these tools. So I think you you were on very, very shaky grounds in terms of policy.
+
+Okay, folks, I think hopefully, hopefully, we put a couple of those comments to bed. I've been in the chat, and we we want to the the questions we've got in our that we'd plan. So
+
+let's let's start off. Then the first question is around, sort of, I suppose.
+
+a staff development student development. And how do we ensure that both students and staff are well supported in these incredibly
+
+fast moving areas. And I suppose we need to think about. Are there
+
+specific challenges that that this type of tool creates for educators that we haven't seen before.
+
+Hello, shall I?
+
+Hi, yes. Well, we'll say what we've decided to do at all. University is rather than listen to the different things that people are saying is to actually use chat to try all the different things. Look at different assessments and see see where it, you know comes out, and then we're going to use those content that's been generated by Chat You Pt.
+
+for stuff development sessions in relation to students we're looking at as colleagues have already identified. They're all limitations. It does make our preferences. So you know, even I asked it to do a document with a weird count, and the way to count it just through any way to counting. You know it's
+
+so with that by focusing on the limitations, Sorry to make sure students are aware of them that students will use them with caution, and you know, so you You're sharing the limitations really before the benefits.
+
+and then choose to put the full trust in it, and then that way develops their own assessment literacy because they'll question the output and by question the output, they're going to have to fully engage with what whatever that output is which is obviously going to help develop their own subject, knowledge and enhance the
+
+and enhance their own literacy assessment development. So we're planning on. Put on sessions on. That will do that that will highlight these that will allow people to train different things. And we're also looking to put in a resource bank together. So we have policy guidance in the Resource Bank, a different ways in which you could use it as well.
+
+So that's what we're doing from our end.
+
+Thanks, Linda. Colleagues anybody else want to.
+
+I think. I think that in terms of supporting staff we we have an open session every 2 weeks, which, thinking about the pace of change, might not be reasoned enough actually. But every every 2 weeks we have an open session on Chat Gpt and a. I generally to discuss where the latest developments are, what people have been finding out, and we, too, are kind of testing and pushing at the boundaries of what it can do, and how it can be creative and supportive, as well as bringing to to the forefront some of those challenges that we see such as
+
+for now we see chat, gpt, not producing references that are accurate. But if if we don't, keep testing that, how soon will it start producing accurate references because Bing can do it. Bing does produce accurate references. So
+
+you know how, in these technologies, catching up with each other, where are those development. So we we're talking all the time. We set up a dedicated team space for staff, where they can open, ask questions. We put links in that team directly to chat Gpt so they can test stuff out. So we're trying to provide this this space. That is a safe space for Staff to discuss
+
+the the issues around it. We've also, within a week developed a single page policy document on the use of Generative AI in assessments. So collaborative writing has been important here, and we've got everybody who's involved in that team space to contribute to that which then gives ownership and and a sense of accountability for people as well.
+
+So we're trying to
+
+and make the staff aware and grow their their understanding of this in terms of students. I think my feeling on. This is
+
+as academics. We are sometimes a little bit hesitant to even let the genie out the bottle on this and that. That students probably all do know about it. Some do some don't. The worry here is, if we start talking about it. Are we going to alert everybody to the fact that it exists.
+
+and just it's all gonna happen. So I think there's at the moment we're just kind of holding back a little bit with students. But we'll see.
+
+Yeah, I think I think the gen is out of the bottle. I just just from my own experience of talking to students. I haven't met any student that Hasn't Hasn't played around with it.
+
+And I know, you know, if you could go to any of the student room forums, it's it's all over the place. So yeah, I think, Kate, I'm kind of so that we need to also look at the different levels of education with the undergraduate post
+
+just to note that so Cambridge University Press, and publish the ethical guidelines today in relation to authorship and AI,
+
+I think, in terms of declared use in relation to to use about. You got to look at idea generation as well as text generation, and perhaps around the spell, checking in terms of how you actually use those tools. So I think
+
+the type of declaration needs to be one level of education, and also in terms of what we're doing in terms of its use if you are students.
+
+Yeah, I think I think that's a really really interesting point. I think I just want add one final thing, just reflecting on the way that I've used it myself. It's a great tool for learning about something that you don't know anything about, you know. Just put in some questions, and then you you just have a conversation literally, you know, and and sort of, you know, help you.
+
+you know. There, there's no such thing as a stupid question when you're speaking to a pot, is there? You know you. You got this complete like? Well, actually, I don't know anything about this. Tell me. So I think, encouraging students to use it as a learning development tool. I think you know. Yeah, can you explain? You know the lectures? Explain something to me in one way
+
+I didn't get it, and then you can ask it to explain it to you again in simpler language, you know. Explain it like on 5, you know, and you'll get a different response. And you might, you know, that might really help students grasp. But grasp a topic that they're struggling with. So so I think it. I think it'd be really really interesting.
+
+I I think the the only thing I would like to say is that universities, policies, and practices. And when they say assessments.
+
+I i'll typically on a sort of a glacial time scale, should we say? And and the AI is just moving so much faster. So if you set an assessment now thinking this is going to, you know, be AI proof or chat gpt proof.
+
+you can Undoubtedly by the time June comes it it will no longer be a future proof. So you know, I think we just really have to recognize that that's the environment
+
+we're working it. The other thing to know is as well. Okay, of course, is that people use chat to Ept on medical more and Nba assessments, and they basically be demonstrating that to function legal knowledge questions we passed using chat gpt on professional exams. So
+
+let me have it.
+
+Well, I was just visiting a a university who had done doing some research with this. and they they developed it
+
+to for doctors. Okay, so the doctors could say what they what you know what the diagnosis was, and the prognosis was in their medical terms, and it would then generate it into person. Friendly language for one of a better phrase, and how you communicate that to the patient in ways that they'd understand. So you know the the part of this tool, I think, is going to be going to be absolutely fascinating. So
+
+that question came in earlier on: is anything AI proof, Mar. We're on subject to kind of exams and assessment around AI, currently setting questions in a, in a a piece of coursework which are based on an image.
+
+So in the above diagram, describe the whatever whatever output of this, or if it's a body diagram, you know, which bit connects, to which bit.
+
+using an an image as a as a prompt to
+
+set the essay question is is largely a IP for now.
+
+because the check, the the generative AI, we've got read text prompts. They can't read image prompts. They don't know they don't understand the images. But as we've seen with
+
+what's interesting here for me is, as we've seen, with chat gpt for literally coming being announced this past coming week. And there's been a study by a a different study done by Fukushima University, which is actually translated human thought into images using AI.
+
+So you can think of something, and it can generate an image based on an algorithm of what you're thinking of, and it's very accurate. How far are we from from cognizance of of AI being able to
+
+read effectively images, and then answer these types of questions, making our assessment setting even harder.
+
+Competitively. I was watching a video this week on Chat Gpt, for where you know it just could be scanded and the the chat you could see, actually correctly identify what that image was and how it connected. So is she? Quite yeah, exactly. I i'm afraid that that's gone.
+
+That step around is gone.
+
+Okay, any any other questions in the in the chat that people want to pick up, or I'll go into the next one.
+
+Somebody just mentioned as well about reflection. and Chatty Pt. Can do reflection
+
+up up to one this morning. A reflection for a session i'm delivered next week with the colleague for a few things in there I need to, just to mention it's pretty impressive. I gave it to my colleague.
+
+I said, that's all session for next week, you know. So like I said at the beginning, the output is as good as the import. It depends on. You know how you engineer the the input. Text.
+
+Okay, Thank you.
+
+I think. What? Why? Why? Why, Why, we're on assessment. I suppose that the next theme there was around round the essay, and you know I I is the exa finally dead?
+
+Oh, I suppose it's the question. It's really in this world, or or can we just think of more creative ways, or acknowledging how AI informs the writing of the essay. What do you think I? I don't necessarily think that the the essay is dead?
+
+I added into Chatea Pt for an essay regarding English as a lingua franca, which is something to do with my background, and I specifically asked it to look for accommodation skills. It did not mention negotiation of meaning.
+
+and you wouldn't expect anybody to put anything together that talks about else, and accommodation skills without using the phrase negotiation of meaning.
+
+So I do think, if you careful in the way you with your assignment title to the students.
+
+some specialist terminology obviously depends on your subject. They're all specialist Terminology is that sort of more well known for some specialist terminology that's maybe less. Well, now, if you don't include that in your essay title, then the students who is cheating and not using it the way you should.
+
+and would probably give you an assignment that does not mention
+
+a specialist technology that you would expect to see within that that essay. So i'm not not necessarily convinced myself that this is the death of an essay.
+
+Yeah, I mean, I I agree with lingo. I mean, I've seen it get specialist technology in the law, badly wrong, because it is nuanced, and languages use a different way to more than often you see it in normal, everyday life.
+
+My co-chair, the Welsh integrity and assessment network dr might ready, has this wonderful Mantra assess process and not product.
+
+Or, in other words, we need to get into the habit of actually not relying upon the end. Product is what we assess by the learning outcomes in relation to the modules and programs, but the process of actually guessing the so, for example, the legal practice goals. We have a practical research exercise
+
+in which you have a research trail which demonstrates every source of students, has looked at.
+
+and an evaluation relation to that. As to why it's not being used as to why it's also being used, so it requires some sort of it requires analysis on the path of Steven, so I think, more practical assessment around that sort of process driven in the face of product room. Assessment, I think, is going to be useful going forward.
+
+Yeah, I absolutely agree, and I mean it's something I've advocated for a long time. Probably it's really difficult to to to your time consuming to mark that process isn't it. But you know, thinking about, You know some of the skills we want our students to have, you know, in terms of team working and group working, and and
+
+those kind of social skills, if you want to call it that you're asking them to go away and research topic. You can use Chat Gbt Research to make, bring it back to the group. Can you explain it to the rest of the group and produce an answer? You know, I mean, I think those kind of more creative ways of of of, you know, embedding, embedding these tools into assessment.
+
+you know, because you call bring something back. If you're not confident you know that that is accurate, because your your group might be going. Well hang on that doesn't, make sense, or whatever, so they can critique it themselves, and I think that's that's definitely going to be developing future fit skills and colleagues that anybody else wants to comment on. On.
+
+I I think what you just highlighted. There was. It was the example, one of the tools that we are exploring at Ppp, which is getting Chat Gp. To generate an essay and generate an answer, and then saying, okay, this is our starting point. So this is your starting point. That's AI thinks is the right answer. Now you will be marked on how well you can improve on this answer.
+
+So, starting off identifying, you know, you get the answer from Chat Gpt. And as the subject matter expert, identifying the weaknesses, the flaws, the mistakes, the errors in in the text.
+
+and then using that as a marking route break for going. Okay, so. How many of these of the students spotted, how many of they developed and expanded upon the argument, how they brought in more current literature than is being suggested by the by, the AI. These are all ways in which, exactly as you say.
+
+okay, that you can get the students to have that conversation around the essay have a conversation around the subject. Expand on that with their knowledge. And yeah, if you've got peers going, well, actually, that's not right. Somebody goes, I think it is right Well, straight away. You've got learning happening because you're having a dialogue and a discourse about the validity of of the answer being provided. So yeah, anything that prompts that discussion which you can then assess via our normal assessment tools, re bricks, etc.
+
+It is valid, I think.
+
+absolutely.
+
+and I think, bringing in really authentic sort of challenge based learning. So something else come from your local community. You know, local school group have got this problem. What what are you going to do about it? So, using those kind of triggers for the learning, you know it, it can't do anything. I think it's somebody sitting in the chat post.
+
+Currently we've I've put all these providers on, because unless you're checking every minute, you don't sure of your upstate but currently only goes up to 21. So anything in the last 2 years is not there, so you know you can sort of you know more recent history and all the rest of it. You can get it to get it to right. Oh, you you you! You'd have to write yourself. So. Yeah, I think it's
+
+interesting.
+
+If anybody spot any other questions in the chat, please just pick them out and let them and and respond to them.
+
+And otherwise we'll go on to. Yeah. So this is. This is my favorite idea. It's about. So an an emerging alternative theme is that AI allows for more creativity and the creation of assessment types. We haven't seen before what what the colleagues think about that. So this whole idea of of creativity
+
+Are these generative tools creative? What do we mean by creativity? Is it something that we value? And
+
+I? I think the tools can be quite creative. But as I keep saying, it's, it's just go to the the input that you put in. One of the things you do like about the tools is the off your suggestions for improvement depending what you've put in, and you know what you've asked to.
+
+I think I the I do you
+
+of being more creative for our assessments, more authentic for our assessments, I think, is a good way to go
+
+as a university. You really want to try and measure what students can do rather than getting them to show you what they come to, and I think with the the threat to academic integrity, all the concerns around in the the misuse of you know AI and Chat gpt, and things like that. I think it really is time to
+
+have a look at assessments
+
+a sort of reshape them up, and i'm quite interested in Student Lena. I'm not sure you'd have to excuse me for my hands. The light goes out on its own. If it don't move for very long. I I think it would be good if we could find a way where students tell. Tell us how they're going to demonstrate
+
+the linen outcomes that are associated with the module. I give students more choice over the assessments that they're going to take part in. But I don't know how
+
+agreeable that would be to a lot of institutions, and how easy it would be to manage.
+
+I mean, I I agree with you, Linda. Understand on that. I think it can be hugely creative, and I think the the possibilities for students to explore what it can do and how it can support things.
+
+I think there are challenges very much it it the challenges, is around ownership. We can see AI being hugely creative in in again, in image generation. It can be hugely created and generate really random with stuff. It's not ownership, though it's not originality. It's repurposing, and it's remodeling. And what we have to remember is these these AI tools
+
+that we're talking about the text. Generative text editors.
+
+i'm. Not actually generating anything new. They are simply putting together words based on likelihood of a pattern of of what you put in, how it should respond. So it's not generating content per se. But I did hear something very interesting on the panel the other day around the the legal point of this
+
+and that is the generative text or generative editors. The cut, the the output of a generative editor, whether it's image based or tech space.
+
+The ownership of that output belongs to the person who input the prompt.
+
+now that
+
+it presents us with a very interesting question, because if that's the case and somebody is inputting text into a generative editor again using the output, they are technically the creators of the output because they have engineered the prompt. So where does that put us in terms of legal position and and ethics.
+
+which is just the whole debate? It's just it's just open on that one.
+
+Well, according to Chatty, Pt: you do own the output. It says that it actually says the the user the person who inputs the text and the suppose there's an argument. For if it's the import that
+
+stimulates the response, then it's the import itself. That would be considered the creative aspect. So so, yes, so
+
+so it is. It is very interesting, but also, of course, I mean the news certainly coming out of the Us. Is that the database which has been scraped from the Internet includes one of
+
+copyrighted material, For example, see a as well as Joel mentioned these images as Well, so you have these actions, and being generated legally in relation to an authorized use of that particular content.
+
+Interestingly, at the moment in the Supreme Court. Here in the Uk.
+
+Being heard by the the Supreme Court, is the concept of whether or not AI can actually generate something which is
+
+to be painted in the AI's own name as opposed to a a human individual copyright, and Uk has been ahead of the Us. And head of your for some time in the AI can generate co-writing material in the Uk in the Us.
+
+Hello.
+
+John's right the the whole legal mindful around this is going to be interesting employers for for some time to come. But creativity.
+
+What's Jill please out is not creative in a way we normally do even creativity. And I was on the
+
+radio last week. BBC: radio with the D from Princeton University, who basically created the detection tool over it. It's Christmas vacation, and he was talking about. You can determine whether or not something's been written by AI or or written by human being, because
+
+a human being will rise in creative bursts. You can see that in the actual materials being produced by human being will be a long passage, perhaps with background. But then it's usually creating process will be emerging in in the assessment
+
+which you can then use as a market to determine human authorship as opposed to AI, which which I see. Well, let's face it. They can hear it very persuasive and realistic way when it's monotone.
+
+The best thing to come out of all of this is the amount of discussion we are having about the validity of our assessments.
+
+So it is finally shaking higher education up to go.
+
+Why are we doing essays? What are the purposes that does it fulfill? Are we assessing learning?
+
+Are we simply assessing rope knowledge and recall? And so really it's about the fact? We are finally having meaningful to discussion around what assessment actually is.
+
+Absolutely. Yeah, I think I think that's a that's a great that's a great point. So what we, what? What what is it. What actually trying to assess
+
+I don't know. It is a comment in the in the chat earlier about how do we access factual knowledge?
+
+And and I think it's not well. Why do we want to assess factual knowledge? Do we want to? We do we want to assess how students use factual knowledge to answer problems.
+
+You know I don't know. I don't know if there is actually some fundamental knowledge that that you will feel that they need. But again, I think it was Michael that made the point earlier about
+
+what we need to be testing at different levels of the education process as well. So worrying around the factual knowledge. I mean, if you ask Chat Gpt to design some building plans, using Pythagoras theorem, and it got it wrong. Somebody then goes and builds and up articulates that plant and the building collapses and kills people. We have a problem, and we have the same problem with, you know. AI driven cars about, and who who kills them? Who's the responsible? Is it the code? Or is it the programmer? If the car is? Is
+
+you've driven by a robot drives into somebody and injury them Who's who's at fault? So
+
+we have this problem with the fact, checking essentially that
+
+the worry here is that people will put things in to AI and assume that it's right, as it gets better. As we've seen in the comments, it will become more right. But we still Haven't got that guarantee. Where is the quality control of the output of this? This goes
+
+actually that sense check this. Does it actually work. Somebody who can do the maths of that Pythagoras theorem to make that building work. Have they checked it to make it sure it's right not just accepted. So checking and accepting from me are 2 very, very different things.
+
+Yeah, I'd agree with that. I think just now it does as well for my professional practice, when, though
+
+when I was, you know, just knowledge massive. I think knowledge masses because you need a framework in which to be creative. You can't be creative with the back. You need to be the framework around which creativity but
+
+I was in the commercial negotiation at 1 point where we had clients in the room with negotiating an outcome, and the on the other side they could use a textbook and started to quote from it, to try and persuade me to change my position.
+
+We could do that now with an ipad, but from a client perspective in terms of perception, the optics of that is awful.
+
+But when your Gp. Starts googling your symptoms. You know you're in trouble. What is it? What is? What is it we are paying for in terms of expertise, and that that knowledge framework you are still going to have to have
+
+in employability, because without that you can't actually properly work, advise, or recreat it.
+
+And that's one of the key things, I think, in terms of what we're looking at developing students assessment literacy. You know this is this is what you're going to be assessed on. This is how you're going to be assessed here with the things you can use, but then bring them forward with those limitations, and install an into that.
+
+Don't believe it's. You know what I mean. We do Tell them that with the Internet as well, we do 2 sessions which students, where we tell them whether this is a credible source of information, how to identify one. Then it's be exactly the same as you say, and Joe, in relation to the output from any AI that's being used. Check it, make sure it's accurate. What what would you use to check that? That is your you know, and equip students with those skills, I think.
+
+Yeah, that's it exactly isn't it, I mean. And this is the difficulty that getting we need to get through to our students that when we have curated resources like in the legal field, we've got lexus nexus Westlaw. Whatever of case studies which are verified, authentic authenticated case law collections.
+
+We can go into those, and everyone agrees that is the correct an application of that particular case law. But when you go to the Internet and we Google it. You have no guarantee. Even with Google. You have no guarantee of your accuracy of that.
+
+because it's coming from the Internet You know, we? This is always the probably back to Wikipedia again. Do we rely on Wikipedia as a source of truth? Well, it's become more accepted
+
+as a collective source, but it still has problems, and it's still not
+
+correct. Technically, we that we can't guarantee its correctness. So
+
+perhaps our understanding is educators. As an as academics. We have to be more
+
+cognizant of the levels of accuracy of information in the information hierarchy. So what we can guarantee our
+
+books that have been written in the and Peer Review by academics. Books in our library that we recommend are reading this our sources of truth.
+
+Next our databases that we can guarantee students can consult. And where does the AI sit within those? Because it might consult some of those it might not. Where does it sit in that hierarchy of information. But we've got to get people to recognize where they can be
+
+checking, as you say, checking those facts and getting a an a knowing that this is correct, because it could matter, it will matter.
+
+and and that is going to be that critical employability, skill isn't it, that being able to test that knowledge.
+
+and I think
+
+really quickly, any comments on. And I think we've sort of touched on a lot of this around the the sort of ethical challenges
+
+of of using AI, and anybody got any final comment on that, I think we've covered a lot of that off in in many of our other comments.
+
+Well, I mean
+
+good.
+
+Well, I suppose it's whether it's one, whether it's authorized, and to the level of decoration, I said Early, depending on what level the study you're at, and how you actually using it. The type of offshoot declaration that, for example.
+
+it's it's it come out with
+
+all that needs a disclosure, and whether or not you know AI, can everything in author alongside a a human being? Because I think the point being, and I think, Joel, and then we said, it is accountability
+
+at the end of the day who is accountable for the output. And you you basically can't see AI at the moment
+
+you can see the human being we can't through. AI, so it's around accountability and ethics. I think you know it's an extremely linked
+
+Yeah, and I and I think we have to recognize that the databases that it's currently built on our bias, you know, just because the way the society is biased. So I did ask a question about who we were, the 10 best leaders, and of course they were all men
+
+when I said we were there. No women, great leaders, and so yes, sorry. There are women, great leaders. I didn't mean to offend you, but I was like well.
+
+and then, if you go on further with that line of question. Name 10 great black leaders named 10 great Asian leaders. Then take name 10 great Asian female leaders, and and and it starts. You know it's not come falling apart, it seems. But yeah, I agree. I mean there, there's also the ethics of of how the actual code is programmed.
+
+I think this has been touched on before by a couple of other people with racist.
+
+The the Who is that? Who's actually input the date, and who's actually done the programming? What it's been. It's been discovered that the Chat Gpt. Was written in an outsourced to very, very poorly for ethical practices in terms of writing and and coding?
+
+And do we have an obligation, therefore, to kind of use it at all? I mean that there's that question which is a another whole debate in itself.
+
+looking at the ethics around co-creation and and content, creation
+
+and the rates that people are paid for their their time and commitment to producing these kinds of tools. But that's not another another big part of the of the debate, I suppose.
+
+Yeah. Absolutely sure that there's a degree of irony as well. You've been used basically to to tag this from your biased material
+
+in in in that database. But of course, the other thing is, we using Chat Gp, too, as well? That's a current advantage in Chat Gbp, and use it. Produce something, and then refine it, check it, source, etc., which is what a student probably can't, so I don't think it's going to be dead in the future.
+
+Certainly not next month, for probably next year. But you know, eventually money.
+
+Hmm.
+
+Well, they they could make as a me as much more productive. Because if you're sitting running an s email, you suddenly can sort of generate all of this text.
+
+Add a few, you know properties, the proper references. And and yeah, you'll start to be a lot more productive than if you're writing them all for yourself.
+
+I think we
+
+AI is going to be more concerning is is is around the truth.
+
+checking and the fact checking because
+
+we've already seen examples of where video content is being produced entirely by AI, which is at the moment a largely manual process. A script is generated by AI, it's fed into a text to speech editor which then generates a false AI evolved voice. It's. Then got a video editor which takes your image and posts onto avatars and generates an avatar isn't you. It's somebody else. And so you can actually make a whole talking Here I could be. I could be saying all of this ultimately in 3 years time.
+
+as an AI BoT. Responding to all of this, we've already got this, and there's lots of comedy on the on the on the medical side of this with your doctor. Now we've already got virtual doctors.
+
+You can already get an app with a doctor on it, which will diagnose your symptoms and give you feedback. Who says that's not a box because it's not. It might not be a real doctor. It could be a BoT.
+
+It pop in my instant. Some instances be driven by a box, these, some priming you with possible symptoms and possible causes. So
+
+yeah deep faking our presentations is the is the comment. There, yeah, deep faking people
+
+and responses. And back that with the AI chat capability
+
+you will have believable deep fakes you really will, and that is concerning, because you can then trust what we see in the media. You can trust them. What we see in terms of even our students standing up at class. Will they be that real? Will they be box? I'm an avatar from the
+
+I think I need an upgrade. And folks, I think that that's a great provocation, I think, to to to finish on. So. Thank you so much for that. I think it does
+
+really like to start to think about. Not just you know what we've been talking about today, but what the future looks like in that future. You know I've been following this topic for a number of years, and it's just accelerated over the last 6 months it really has, and it's really
+
+make us think about what? What? What's the future of professional work? There's more and more jobs that are going to be taken by by this technology. You know, I do. We all have a life of leisure ahead of us, but the film hidden figures I don't know if people see it where you have
+
+all those women doing computational
+
+skills basically suddenly gone through the Ibm computer and introduced the allocate computer programmers. That's human creativity down human beings. We survive so long.
+
+Yeah, No, I think that's that's a great, a great story, a great example to finish on. We will always innovate. We will always find new and challenging to us, let alone to deal with the sustainability and climate crisis which we can, we can all put our energies into instead colleagues. I would really like to thank the panel for such a fascinating discussion.
+
+Thank you. Anybody that joined us. We had well over 200 people joining us today, so apologies, if we didn't cover everything that you wanted, you might want to dip into the other conversation, which is also recorded. You know we we it was a different conversation, obviously.
+
+so you can have a look at that one as well. But but thank you for the for the great prom from colleagues, and and thank you for to my colleagues and networks who kept the show on the road. Keep a cool heads under, you know this massive event for us, so thank you all very much
+
+like a release. You all to get your lunches.
+
