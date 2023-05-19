@@ -1,0 +1,296 @@
+1
+00:00:01,540 --> 00:00:13,060
+This is a thought piece by Joel Mills, associate professor in academic leadership and head of Learning and Teaching at BP.
+
+2
+00:00:15,270 --> 00:00:20,460
+This piece is around the use of AI to generate scholarly articles.
+
+3
+00:00:21,680 --> 00:00:30,710
+In a time poor environment for academics in higher education, using version four with plug ins.
+
+4
+00:00:32,930 --> 00:00:37,190
+The context for this piece is that academics are generally time poor and.
+
+5
+00:00:38,360 --> 00:00:42,800
+I have a lot of pressure on them to produce scholarly outputs on a regular basis.
+
+6
+00:00:44,880 --> 00:00:53,790
+In this framework, I I'm going to present I will talk about how we can write a short 800 word blog piece using air generated tools.
+
+7
+00:00:54,900 --> 00:01:05,780
+From a simple audio recording. Which can then be used to process using GPT four and plugins to generate a scholarly article.
+
+8
+00:01:09,650 --> 00:01:14,960
+The tools that we're going to use for this will be some form of media recording such as Panopto,
+
+9
+00:01:15,650 --> 00:01:24,110
+Microsoft Stream Recordings of meetings or a simple audio recording through Audacity or QuickTime player for the Mac.
+
+10
+00:01:25,290 --> 00:01:32,609
+In this example, I'm simply using QuickTime player for the Mac to capture an audio file only as they are short to process and very,
+
+11
+00:01:32,610 --> 00:01:42,200
+very small file sizes. The other tools we are going to use are chat jpt version for.
+
+12
+00:01:43,560 --> 00:01:53,190
+With the plugins for analysis, which are the plugin called Scholar dot I.
+
+13
+00:01:54,610 --> 00:02:03,310
+Web pilot. And also a PDF reader which can enable us to use and access pdf content as well.
+
+14
+00:02:03,610 --> 00:02:11,830
+Chat with PDF so the three plugins our chat with PDF Web Pilot and scholar i.
+
+15
+00:02:14,400 --> 00:02:17,560
+Those must be enabled in the conversation. With.
+
+16
+00:02:20,530 --> 00:02:25,360
+So the first thing to do in this process, step one is to record your audio.
+
+17
+00:02:26,170 --> 00:02:31,180
+This could be a microsoft teams meeting that is recorded automatically and gets uploaded to stream,
+
+18
+00:02:32,260 --> 00:02:37,120
+or it could be a zoom meeting that is recorded and the audio extracted.
+
+19
+00:02:37,660 --> 00:02:47,800
+Or as in this case, it could be a simple audio file recorded by Audacity, or it could be a mac QuickTime player as well.
+
+20
+00:02:50,600 --> 00:02:56,240
+So the first thing to do is record the audio. Once this is recorded, you will get an audio file output.
+
+21
+00:02:57,680 --> 00:03:01,580
+There are a number of different tools that can generate text from audio.
+
+22
+00:03:01,610 --> 00:03:07,489
+You can either use an online tool to do captioning or stream and Panopto automatically
+
+23
+00:03:07,490 --> 00:03:11,810
+generate captions if provided and that setting is enabled in those tools.
+
+24
+00:03:13,210 --> 00:03:24,310
+In this case, I will be using Panopto to generate my caption file and I will then download those captions as a transcription of the audio.
+
+25
+00:03:25,780 --> 00:03:35,850
+Some of these tools, when you download the audio transcription, download them as a dot voice file, which is not very easily enabled to be read by GPT.
+
+26
+00:03:36,850 --> 00:03:48,880
+There are online converters available to to transmit to change a file into a text file, a plain text file which is much more easily read by GPT.
+
+27
+00:03:52,840 --> 00:03:59,740
+Once you've got your text file, it's then a case of hosting it in a place that you can read using its web pilot plugin.
+
+28
+00:04:01,410 --> 00:04:05,700
+When you ask Champ GPT where it can house these files, it does suggest Google Drive,
+
+29
+00:04:06,090 --> 00:04:12,210
+Dropbox and OneDrive all as options for hosting the file, which it can then read.
+
+30
+00:04:12,900 --> 00:04:20,540
+However, in my practice experience of this, I wasn't able to get any of those tools to be read by GPT.
+
+31
+00:04:21,090 --> 00:04:27,780
+Even when the links were created as public links with sharing enabled, GPT simply couldn't read the text files.
+
+32
+00:04:29,930 --> 00:04:38,810
+So I wouldn't recommend using those. However, it does also suggest that GitHub as a repository can be used as a way of hosting the files.
+
+33
+00:04:39,800 --> 00:04:44,370
+When I used GitHub, I found this to have 100% success rate and it read the text files easily.
+
+34
+00:04:44,390 --> 00:04:46,040
+So for the purposes of this framework,
+
+35
+00:04:46,040 --> 00:04:55,430
+I will be recommending the use of GitHub as a repository for hosting the output transcriptions from any audio interview or discussion.
+
+36
+00:04:59,440 --> 00:05:03,099
+So once you've traced your GitHub account and trace your first repository,
+
+37
+00:05:03,100 --> 00:05:08,889
+uploading files to that is a very simple matter and then you can browse to that file to grab the URL for that text file.
+
+38
+00:05:08,890 --> 00:05:20,540
+Which chat GPT needs to provide its transcript. The next thing to do then is to set up a new chapter in GPT four,
+
+39
+00:05:20,780 --> 00:05:26,870
+which will then we will then write a prompt form which enables GPT to write in the style that you want.
+
+40
+00:05:27,950 --> 00:05:36,170
+For the purposes of this framework demonstration and for the purposes of this article, I've written the following prompt.
+
+41
+00:05:38,750 --> 00:05:45,750
+This is the prompt. You will analyse text files uploaded to GitHub, which will be transcripts of conversations.
+
+42
+00:05:46,590 --> 00:05:51,090
+You will generate blog posts of around 800 words written in the third person singular.
+
+43
+00:05:52,090 --> 00:05:59,590
+You will generate citations and references in the blog post that are real articles and that can be linked to on the web.
+
+44
+00:06:01,010 --> 00:06:09,720
+Your citations will be written in the Harvard referencing format. Your citations will provide academic context to the contents of the blog post.
+
+45
+00:06:11,390 --> 00:06:17,240
+You will write the blog in an academic friendly tone for digest by a wide audience in education.
+
+46
+00:06:19,840 --> 00:06:24,130
+That is the end of the prompt. This sets up.
+
+47
+00:06:25,540 --> 00:06:30,310
+JPT. To respond in the way I need it to and is called prompt engineering.
+
+48
+00:06:32,410 --> 00:06:37,090
+All it's waiting for now is the URL of the GitHub repository where the transcripts are located,
+
+49
+00:06:37,330 --> 00:06:41,710
+and it will start analysing the transcripts and generating the blog posts as per my requirements.
+
+50
+00:06:45,350 --> 00:06:52,940
+Once those blog posts have been written, we can then further refine those blog posts by either regenerating the response or changing the tone,
+
+51
+00:06:53,390 --> 00:06:56,420
+or even asking it to rewrite with references.
+
+52
+00:06:56,420 --> 00:07:01,760
+Without references as per the need. By doing this,
+
+53
+00:07:01,760 --> 00:07:06,469
+this drastically speeds up the drafting process and provides a scaffold for a good
+
+54
+00:07:06,470 --> 00:07:12,799
+academic article which can then be used for publication in blogs or newsletters,
+
+55
+00:07:12,800 --> 00:07:21,100
+etc. So to summarise then, this is the new way of academic writing.
+
+56
+00:07:21,340 --> 00:07:29,980
+We have entered a new world, a world where I can massively speed up our processes and support us to achieve our objectives.
+
+57
+00:07:31,030 --> 00:07:39,880
+Air is a friend that can help us to generate content more quickly, more efficiently, and more effectively than ever before.
+
+58
+00:07:41,380 --> 00:07:49,330
+Air is not something to be afraid of. It is something to be embraced and something to be used as a tool to support our everyday practice.
+
+59
+00:07:50,560 --> 00:07:56,710
+In a world where scholars are no longer locked in rooms with hundreds of books, poring over them,
+
+60
+00:07:56,980 --> 00:08:03,460
+creating hours and hours of different versions of texts, trying to find citations, trying to link back to work.
+
+61
+00:08:03,820 --> 00:08:13,890
+Those days are long gone. We are now in a world where I can search for articles, find citations that are real.
+
+62
+00:08:14,810 --> 00:08:20,180
+Provide different tones of voice. And generate a lot of the content for us.
+
+63
+00:08:22,130 --> 00:08:26,900
+This is still academic writing. I am still talking to you here and now.
+
+64
+00:08:27,020 --> 00:08:31,190
+These are my thoughts, not his thoughts. It cannot think for itself.
+
+65
+00:08:33,050 --> 00:08:37,390
+So the relevance of my A.I. generated contents is still very real.
+
+66
+00:08:38,510 --> 00:08:41,480
+And this has to be acknowledged by the wider academic community.
+
+67
+00:08:43,000 --> 00:08:49,930
+No longer does an academic have to spend hours conducting literature reviews or writing detailed analysis of texts.
+
+68
+00:08:51,560 --> 00:08:59,090
+We can simply use the tools that are available as we once jumped on the calculator as a tool to help us with our maths.
+
+69
+00:08:59,450 --> 00:09:06,350
+We can use AI to further increase our reach at a more rapid way than we could ever done before.
+
+70
+00:09:08,960 --> 00:09:16,190
+This kind of framework will be of special interest academics who are already generating narrated PowerPoint presentations,
+
+71
+00:09:16,190 --> 00:09:20,210
+for example, which can then be transcribed as I've described.
+
+72
+00:09:21,970 --> 00:09:25,930
+We can generate articles and publish them around.
+
+73
+00:09:27,190 --> 00:09:37,360
+The content we are already producing and don't have to then be siphoned off to produce new content when we don't have the time to do so.
+
+74
+00:09:38,500 --> 00:09:41,980
+This is a new world of publishing. It is a world of publishing.
+
