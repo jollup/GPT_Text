@@ -9,14 +9,14 @@ quit_date = datetime(2025, 9, 12)
 
 # === Longer motivational messages (scrolling) ===
 normal_messages = [
-    "Keep going – you've been vape-free for {days} days!",
-    "{days} days clean – that's incredible!",
-    "You're smashing it – {days} days no vape!",
-    "Still standing strong – {days} days!",
+    "Keep going Joel! – you've been vape-free for {days} days!",
+    "{days} days clean – You're incredible! Joel",
+    "You're smashing it Joel – {days} days no vape!",
+    "Still standing strong Joel – {days} days!",
     "Keep your streak alive – {days} days vape-free!",
-    "Every day matters – {days} days!",
-    "Breathe easy – {days} days strong.",
-    "Vape-free and thriving: {days} days!"
+    "Every day matters Joel – {days} days!",
+    "Breathe easy Joel – {days} days strong.",
+    "Joel is vape-free and thriving: {days} days!"
 ]
 
 # === Milestone messages ===
