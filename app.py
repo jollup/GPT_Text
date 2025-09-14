@@ -5,21 +5,21 @@ import random
 app = Flask(__name__)
 
 # === Quit date ===
-quit_date = datetime(2025, 9, 12)
+quit_date = datetime(2025, 9, 1)
 
-# === Motivational messages ===
+# === Short, non-scrolling motivational messages (≤29 chars) ===
 normal_messages = [
-    "Stay strong – {days} days vape-free!",
-    "You're crushing it – {days} days!",
-    "Keep going – {days} days clean!",
-    "You’ve got this – {days} days without vaping!",
-    "Amazing progress – {days} days!",
-    "Still standing – {days} days vape-free!",
-    "Victory streak: {days} days!",
-    "number of vape free days – {days} days"
+    "Keep going – {days}d",
+    "Still vape-free: {days}d",
+    "You're crushing it!",
+    "{days} days clean!",
+    "Stay strong! {days}d",
+    "Vape-free streak: {days}",
+    "One day at a time!",
+    "Keep it up – {days}d"
 ]
 
-# === Milestone messages (can be a list for each day if you want variety) ===
+# === Milestone messages (longer, scrollable) ===
 milestones = {
     1:   ["🎉 Day ONE! You’ve started. Keep going!"],
     3:   ["💪 3 days strong – withdrawal fading!"],
@@ -33,34 +33,42 @@ milestones = {
     365: ["🎉 ONE YEAR. You’re a hero!"]
 }
 
-# === In-memory cache to only update message once per hour ===
+# === In-memory cache to update message only once per hour ===
 last_hour_checked = None
-cached_message = None
+cached_frame = None
 
 @app.route('/')
 def show_days():
-    global last_hour_checked, cached_message
+    global last_hour_checked, cached_frame
 
     now = datetime.now()
     days = (now - quit_date).days
     current_hour = now.strftime('%Y-%m-%d %H')
 
     if current_hour != last_hour_checked:
+        # Check if it's a milestone day
         if days in milestones:
-            cached_message = random.choice(milestones[days])
+            message = random.choice(milestones[days])
+            frame = {
+                "index": 0,
+                "text": message,
+                "icon": "a6069",
+                "duration": 5000  # show for 5 seconds
+            }
         else:
-            cached_message = random.choice(normal_messages).format(days=days)
+            message = random.choice(normal_messages).format(days=days)
+            frame = {
+                "index": 0,
+                "text": message,
+                "icon": "a6069"
+                # No duration = default LaMetric behaviour
+            }
 
+        cached_frame = frame
         last_hour_checked = current_hour
 
     return jsonify({
-        "frames": [
-            {
-                "index": 0,
-                "text": cached_message,
-                "icon": "a6069"
-            }
-        ]
+        "frames": [cached_frame]
     })
 
 # === Render entry point ===
