@@ -5,7 +5,7 @@ import random
 app = Flask(__name__)
 
 # === SET YOUR QUIT DATE HERE ===
-quit_date = datetime(2025, 9, 1)
+quit_date = datetime(2025, 9, 12)
 
 # === MOTIVATIONAL MESSAGES ===
 messages = [
